@@ -1,0 +1,27 @@
+{
+  "name": "image-resize-test",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "async": "^3.2.0",
+    "cookie-parser": "~1.4.3",
+    "date-and-time": "^0.13.1",
+    "debug": "~2.6.9",
+    "express": "~4.16.0",
+    "express-validator": "^6.5.0",
+    "graceful-fs": "^4.2.4",
+    "http-errors": "~1.6.2",
+    "jade": "~1.11.0",
+    "js-php-serialize": "0.0.6",
+    "moment": "^2.26.0",
+    "morgan": "~1.9.0",
+    "multer": "^1.4.1",
+    "mysql": "^2.16.0",
+    "mysql2": "^1.6.4",
+    "php-unserialize": "0.0.1",
+    "sharp": "^0.21.1"
+  }
+}
